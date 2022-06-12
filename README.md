@@ -1,8 +1,6 @@
 - 👋 Hello World! I’m @Joshua-Ho-Gwok-Hin
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ... I'm new here
-- 📫 How to reach me ...
+- 💞️ I'm new here
 - https://joshua.hgh.sg (My Portfolio in Music and other media production)
 - https://sgclassicalguitar.xyz (Incomplete website and update ceased 🥲)
 
