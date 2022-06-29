@@ -7,4 +7,4 @@ Feel free to checkout my GitHub repositories:<br>
 
 Other external links:
 - https://joshua.hgh.sg (My Portfolio in Music and other media production)
-- https://sgclassicalguitar.xyz (One of my websites. Operation ceased 🥲)
+- https://sgclassicalguitar.xyz (One of my websites. Update ceased 🥲)
