@@ -1,10 +1,10 @@
 # Hello World! 👋 My name is Joshua.
 🌱 I’m currently learning Java and I'm new here 😶
 
-Feel free to checkout my GitHub repositories:<br>
-- <a href="https://github.com/Joshua-Ho-Gwok-Hin/Mini-Project-Battle-Ships">Battle Ships Game Java</a>
-- <a href="https://github.com/Joshua-Ho-Gwok-Hin/Java-Masterclass">Java Masterclass by Tim Buchalka  (Course quizzes, challengers & assignments)</a><br>
-- <a href="https://github.com/Joshua-Ho-Gwok-Hin/Adv-Cert-Web-Dev">Advanced Certificate in Infocomm Technology (Course projects & assignments)</a>
+Feel free to check my GitHub repositories:<br>
+- <a href="https://github.com/Joshua-Ho-Gwok-Hin/EDU-SGUS-LITHAN-NICF/tree/main/java-battle-ships-game">Battle Ships Game Java</a>
+- <a href="https://github.com/Joshua-Ho-Gwok-Hin/TUTORIALS-Java-Masterclass-Tim-Buchalka">Java Masterclass by Tim Buchalka  (Course quizzes, challengers & assignments)</a><br>
+- <a href="https://github.com/Joshua-Ho-Gwok-Hin/EDU-SGUS-LITHAN-NICF">Advanced Certificate in Infocomm Technology (Course projects & assignments)</a>
 
 Completed tutorials and other misc links:
 - https://my-store.hgh.sg - Deployed Angular tutorial
