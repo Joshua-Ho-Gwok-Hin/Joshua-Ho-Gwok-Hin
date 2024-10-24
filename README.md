@@ -2,7 +2,7 @@
 🌱 I’m currently learning Java and I'm new here 😶
 
 Visit my portfolio website:
-- [https://joshua.hgh.sg](https://www.youtube.com/c/JoshuaHoGwokHin_SG)
+- [Joshua Ho Gwok Hin YouTube](https://www.youtube.com/c/JoshuaHoGwokHin_SG)
 
 Feel free to check my GitHub repositories:<br>
 - <a href="https://github.com/Joshua-Ho-Gwok-Hin/EDU-SGUS-LITHAN-NICF/tree/main/java-battle-ships-game">Battle Ships Game Java</a>
